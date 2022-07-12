@@ -33,6 +33,6 @@ npm start
 ## Prerequisites
 
 You will need to have node and npm installed. In addition you will need a MySQL server running in order to have full functionality of the application
-
+database is also here all u need to import this quires
 <br/>
 
