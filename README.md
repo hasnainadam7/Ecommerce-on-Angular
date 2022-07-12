@@ -4,12 +4,12 @@
 Then cd into both directories and run npm install
 
 ```
-cd folder-name
 cd backend
-npm run install
+
+npm  install
 cd.. // return to folder-name
 cd client
-npm run install
+npm  install
 ```
 
 <br/>
@@ -19,13 +19,13 @@ After the entire installation you need to run the server and the client by runni
 **backend**
 
 ```
-npm run dev
+npm start
 ```
 
 **client**
 
 ```
-ng serve
+npm start
 ```
 
 <br/>
